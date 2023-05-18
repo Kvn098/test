@@ -17,7 +17,7 @@ public class HelloWorld {
         // TODO code application logic here
         System.out.println("Hello");
         System.out.println("Git changes");
-        // this file is now ready for fetch and merge//
+        // this file is now ready for fetch and merge
         
     }
     
